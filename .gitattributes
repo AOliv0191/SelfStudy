@@ -1,0 +1,9 @@
+* text=auto
+*.java text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+# Enforce LF for text files
+* text eol=lf
+.gitignore text eol=lf
+
